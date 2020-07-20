@@ -1,2 +1,2 @@
 console.log('Welcome Ubuntu')
-console.log('Git Check')
+console.log('Git Check Gits')
